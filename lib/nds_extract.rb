@@ -46,7 +46,7 @@ def total_gross(source)
   # return the total
   total = 0
   i = 0 
-  
+  tot_hash =
 end
 
 

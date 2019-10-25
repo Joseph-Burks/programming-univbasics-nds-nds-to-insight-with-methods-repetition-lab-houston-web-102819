@@ -50,7 +50,10 @@ def total_gross(source)
   total = 0
   i = 0 
   while i < names_array.length do
-    total += names_array[i]
+    total += tot_hash[names_array][i]
+    i += 1
+  end
+  total
 end
 
 

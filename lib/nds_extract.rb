@@ -50,7 +50,7 @@ def total_gross(source)
   total = 0
   i = 0 
   while i < names_array.length do
-    
+    total += names_array[i]
 end
 
 
